@@ -1,0 +1,14 @@
+C:\Users\UserHome\source\repos\Algoritm2\bin\Debug\net8.0\Algoritm2.exe
+C:\Users\UserHome\source\repos\Algoritm2\bin\Debug\net8.0\Algoritm2.deps.json
+C:\Users\UserHome\source\repos\Algoritm2\bin\Debug\net8.0\Algoritm2.runtimeconfig.json
+C:\Users\UserHome\source\repos\Algoritm2\bin\Debug\net8.0\Algoritm2.dll
+C:\Users\UserHome\source\repos\Algoritm2\bin\Debug\net8.0\Algoritm2.pdb
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.AssemblyInfoInputs.cache
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.AssemblyInfo.cs
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.csproj.CoreCompileInputs.cache
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.dll
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\refint\Algoritm2.dll
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.pdb
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\Algoritm2.genruntimeconfig.cache
+C:\Users\UserHome\source\repos\Algoritm2\obj\Debug\net8.0\ref\Algoritm2.dll
